@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arun-DEV-prog/Arun-DEV-prog/main/banner (2).png" alt="Arun Kumar Roy - Banner" height="400"/>
+  <img src="https://raw.githubusercontent.com/Arun-DEV-prog/Arun-DEV-prog/main/banner%20(2).png" alt="Arun Kumar Roy - Banner" height="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Arun Kumar Roy</h1>
@@ -14,14 +14,14 @@
 
 ### 👀 Profile Views
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arun-dev-prog&label=Profile%20views&color=0e75b6&style=flat" alt="arun-dev-prog" />
+  <img src="https://komarev.com/ghpvc/?username=Arun-DEV-prog&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arun-dev-prog&theme=radical&margin-w=10&margin-h=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arun-DEV-prog&theme=radical&margin-w=10&margin-h=10" alt="trophies"/>
 </p>
 
 ---
@@ -69,17 +69,16 @@
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-DEV-prog&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arun-DEV-prog&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Arun-DEV-prog&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arun-DEV-prog&theme=tokyonight)
+
 
 </div>
-
 
 ---
 
