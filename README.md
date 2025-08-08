@@ -69,15 +69,17 @@
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-DEV-prog&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-DEV-prog&layout=compact&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arun-DEV-prog&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arun-DEV-prog&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arun-DEV-prog&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Arun-DEV-prog&theme=tokyonight)
 
 </div>
+
 
 ---
 
