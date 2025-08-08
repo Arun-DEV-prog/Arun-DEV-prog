@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arun-DEV-prog/Arun-DEV-prog/main/banner (2).png" alt="Arun Kumar Roy - Banner"/>
+  <img src="https://raw.githubusercontent.com/Arun-DEV-prog/Arun-DEV-prog/main/banner (2).png" alt="Arun Kumar Roy - Banner" height="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Arun Kumar Roy</h1>
