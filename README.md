@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6a22a2fcd6908191957197f8860615bc" alt="Arun Kumar Roy - Banner" height="400"/>
+  <img src="https://i.ibb.co.com/VWYtjbSv/Chat-GPT-Image-Jun-5-2026-04-20-27-PM.png" alt="Arun Kumar Roy - Banner" height="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Arun Kumar Roy</h1>
