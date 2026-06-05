@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Arun Kumar Roy</h1>
-<h3 align="center">💻 Frontend Developer | MERN Stack Learner | CSE Student at GSTU 🚀</h3>
+<h3 align="center">💻MERN Stack Developer| MERN Stack Learner | CSE Student at GSTU 🚀</h3>
 
 <p align="center">
   🌱 Passionate about building modern, responsive, and user-friendly web applications.
